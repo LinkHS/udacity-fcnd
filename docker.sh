@@ -1,0 +1,1 @@
+docker run -it -p 8888:8888 -v "/home/:/home/" jupyter/base-notebook
